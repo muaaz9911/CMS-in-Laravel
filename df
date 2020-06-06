@@ -1,0 +1,47 @@
+[33mcommit c0b4abcb500ce3dadfcbd2399693cb721db0a067[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Mon Nov 18 21:59:11 2019 +0500
+
+    user part done 100%
+
+[33mcommit 60e1c8705d2ff7e6e96499379a45b0fa8202657b[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Sun Nov 17 20:16:39 2019 +0500
+
+    edit user done
+
+[33mcommit 83691391133b3a2074d54c2a1c7c6861582bc4cf[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Sun Nov 17 15:35:19 2019 +0500
+
+    photo upload, save  and photo table link with user
+
+[33mcommit 9a360bb1dfd731426f5c33a2282e138f5d7e1d87[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Sat Nov 16 19:21:06 2019 +0500
+
+    user create and show, without phots
+
+[33mcommit 134aae124904c11c47c8fd5a8471a2df63d8e0bf[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Thu Nov 14 22:05:47 2019 +0500
+
+    instal npm put files inresourse run dev admin page is ok
+
+[33mcommit e368ac17fc2c8fd0d8f4dd54bf4a685d2cd0908c[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Thu Nov 14 21:22:02 2019 +0500
+
+    v3 make simple migration and create auth
+
+[33mcommit 8bc84e4b0c480df0fb9d7b2dca804ed07dc2f2d6[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Thu Nov 14 19:05:17 2019 +0500
+
+    2nd version, just change in welcome .blade
+
+[33mcommit d28cae85da44e7f766bcdfc6e6bf082b620b77c9[m
+Author: muazz hammad <asimzafar962@gmail.com>
+Date:   Thu Nov 14 18:58:18 2019 +0500
+
+    fresh copy of laravel
